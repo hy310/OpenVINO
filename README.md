@@ -13,6 +13,9 @@ Intel의 OpenVINO 툴킷을 이용해 AI 모델 빌드, 실행할 수 있는 솔
 3) Speech_to_Text
 - Intel의 OpenVINO 에 있는 pretrained 된 모델을 사용해 speech 를 text 로 바꾸어주는 모델 데모 실습 튜토리얼입니다.
 
-* gaze estimation, BERT question & answering 의 경우 튜토리얼을 youtube 에 영상으로 업로드하였습니다.
+
+
+
+gaze estimation, BERT question & answering 의 경우 튜토리얼을 youtube 에 영상으로 업로드하였습니다.
 
 https://youtu.be/FzcgkmyYT3Y
